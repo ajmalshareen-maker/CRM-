@@ -19,3 +19,6 @@ uploads
 # sqlite sidecar files
 data/*.db-wal
 data/*.db-shm
+REPLYFLOW-PROJECT.sh
+replyflow-repo.bundle
+verifytest/
