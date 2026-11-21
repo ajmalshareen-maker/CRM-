@@ -1,0 +1,21 @@
+# dependencies & build output
+node_modules
+dist
+
+# local tooling / caches
+.arena
+.cache
+.npm
+.playwright-cli
+uploads
+*.log
+.DS_Store
+
+# secrets
+.env
+.env.local
+.env.*.local
+
+# sqlite sidecar files
+data/*.db-wal
+data/*.db-shm
