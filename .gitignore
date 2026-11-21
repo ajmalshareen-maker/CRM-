@@ -22,3 +22,4 @@ data/*.db-shm
 REPLYFLOW-PROJECT.sh
 replyflow-repo.bundle
 verifytest/
+testrun/
